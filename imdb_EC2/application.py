@@ -13,7 +13,7 @@ import model
 @app.route('/',methods=['POST','GET'])
 def main():
   if(request.method=='GET'):
-    return render_template('sentiment.php')
+    return render_template('index.html')
 
 @app.route('/predict',methods=['POST','GET'])
 def predict():
