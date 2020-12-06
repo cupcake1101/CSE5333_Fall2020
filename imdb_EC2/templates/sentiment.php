@@ -35,7 +35,7 @@ xhttp.onreadystatechange = function() {
    </script>
 	</head>
 <body style="background-color:#1a1a1a">
-<h1 style="color:yellow; font-family: Helvetica ;text-align:center; "> Sentiment Analysis of IMDB reviews on AWS Elastic Beanstalk </h1>
+<h1 style="color:yellow; font-family: Helvetica ;text-align:center; "> Sentiment Analysis of IMDB reviews on AWS EC2 </h1>
 
   <center> <textarea rows="15" cols="80" placeholder="Enter your movie review here to check it's sentiment....." id = "inputTextField"></textarea> </center>
 
