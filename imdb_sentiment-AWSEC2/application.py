@@ -28,6 +28,6 @@ def predict():
 
 if __name__=='__main__':
   # We need to run the app to run the server
-  app.run(host='0.0.0.0',port=8080) #use this command when deployed on ec2
-  #app.run(debug=False)
+  #app.run(host='0.0.0.0',port=8080) #use this command when deployed on ec2
+  app.run(debug=True)
 
