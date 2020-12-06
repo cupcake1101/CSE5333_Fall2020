@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+Python==3.7.8
+Flask==1.1.2
+Flask-Cors==3.0.9
+=======
+Flask==1.1.2
+Flask-Cors==3.0.9
+nltk==3.5
+>>>>>>> daefdfaefe40bd506fdc7e2225cdb0cd73b0f335
+numpy==1.19.3
+pandas==1.1.4
+stopwords==0.1.3
